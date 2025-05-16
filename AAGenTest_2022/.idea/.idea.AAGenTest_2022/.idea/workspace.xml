@@ -7,9 +7,15 @@
     <list default="true" id="3c1b9a2c-bd3f-484f-8b1f-03093bb4c2ab" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/.idea.AAGenTest_2022/.idea/projectSettingsUpdater.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/.idea.AAGenTest_2022/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AddressableAssetsData/AssetGroups/Readme.asset_Assets.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AddressableAssetsData/AssetGroups/Readme.asset_Assets.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AddressableAssetsData/AssetGroups/SingleAssets_0.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AddressableAssetsData/AssetGroups/SingleAssets_0.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Gameplay/Scripts/Manager/BattleGameplayManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Gameplay/Scripts/Manager/BattleGameplayManager.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Gameplay/Scripts/SceneLoader/LoadSceneBehaviour.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Gameplay/Scripts/SceneLoader/LoadSceneBehaviour.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Gameplay/Scripts/SceneLoader/NextSceneLoader.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Gameplay/Scripts/SceneLoader/NextSceneLoader.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RenderPipeline/RenderPipelineAsset_Universal_Desktop.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/RenderPipeline/RenderPipelineAsset_Universal_Desktop.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RenderPipeline/RenderPipelineAsset_Universal_Mobile.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/RenderPipeline/RenderPipelineAsset_Universal_Mobile.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/BurstAotSettings_StandaloneWindows.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/BurstAotSettings_StandaloneWindows.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/CommonBurstAotSettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/CommonBurstAotSettings.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +103,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1747436509210</updated>
-      <workItem from="1747436510821" duration="1737000" />
+      <workItem from="1747436510821" duration="2330000" />
     </task>
     <servers />
   </component>
