@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Shared_-51611843
+  m_EditorClassIdentifier: 
+  m_GroupName: Shared_-51611843
+  m_Data:
+    m_SerializedData: []
+  m_GUID: d5ab5dc6e534f92438e8c1d6b142edbf
+  m_SerializeEntries:
+  - m_GUID: 168b1b37f1fa140f8a299390358518a9
+    m_Address: Assets/Art/Environment/EnvironmentPieces/Rope/Sprite_Rope@2x.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1e5c0534e23c14d8a88af5c424b36573
+    m_Address: Assets/Art/Environment/EnvironmentPieces/Bridge/Sprite_Bridge_Mask.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5073fd01f25fd4cf0b05294bc048edc2
+    m_Address: Assets/Art/Environment/EnvironmentPieces/Bridge/Sprite_Bridge.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 87ee8e3ccdd13e94380e13ef428c832a
+    m_Address: Assets/Art/Environment/EnvironmentPieces/Rope/Sprite_Rope_Mask.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a3984ff4608514a6e90f091e41225fd7
+    m_Address: Assets/Art/Environment/EnvironmentPieces/Bridge/Sprite_Bridge_Normal.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ba03a784ff9e24c0cbac1fca5f291f4a
+    m_Address: Assets/Art/Environment/EnvironmentPieces/Rope/Sprite_Rope_Normal@2x.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: d92965523be699e4996929cc3d5c7897, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: f8123a1ca0c06d54da28c0b29456d9a8, type: 2}

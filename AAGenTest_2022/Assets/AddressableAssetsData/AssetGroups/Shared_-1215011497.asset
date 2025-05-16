@@ -1,0 +1,174 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Shared_-1215011497
+  m_EditorClassIdentifier: 
+  m_GroupName: Shared_-1215011497
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 8a6815164aa4bb84f90aa6c9933b14b1
+  m_SerializeEntries:
+  - m_GUID: 0421efd142ba4414e8cd7c65a7f2544e
+    m_Address: Assets/Art/Environment/EnvironmentPieces/Bridge/SpriteShape_Bridge.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 04b1aabcb24f92446ad84dd594095419
+    m_Address: Assets/Art/Environment/_Prefabs/EnvironmentPieces/Miscellaneous/P_WoodenPillar.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 07327c400b244fd459f69a4a17eb174e
+    m_Address: Assets/Art/Environment/_Prefabs/EnvironmentPieces/Miscellaneous/P_Rope.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 107e653fb056fbd438cb01105e3cc8a1
+    m_Address: Assets/Art/Environment/_Prefabs/EnvironmentPieces/Miscellaneous/P_Bridge.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 12c3f8b7b1aa688439106013f52e87a9
+    m_Address: Assets/Art/Environment/_Prefabs/EnvironmentPieces/Lake/P_Lake_Light_Glow.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 18439d703aa93ce4490c359771a1b5d1
+    m_Address: Assets/VFX/Lake/Materials/Mat_Lake.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1846681e738538a43b0c1168a12dcad5
+    m_Address: Assets/Art/Environment/_Prefabs/EnvironmentPieces/Miscellaneous/P_Shovel.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1acf77334f32c544bb40d74b0154d208
+    m_Address: Assets/VFX/Lake/Sprites/Sprite_Lake.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 290e0e9b10008c145857e285043190a8
+    m_Address: Assets/Art/Environment/_Prefabs/EnvironmentPieces/Lake/P_WaterFall_Vertical.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2c3e67285d1b09c4ba7d0f00330b7bf9
+    m_Address: Assets/Art/Environment/_Prefabs/EnvironmentPieces/Crystals/P_Crystal_J.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4e87c518afe439343b715bbbb8820b29
+    m_Address: Assets/VFX/Lake/Materials/Mat_Waterfall.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5395684f9eb4bf64aab95485f9d5fec2
+    m_Address: Assets/Art/Environment/_Prefabs/EnvironmentPieces/MineCart/P_MineCartWithCrystals.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 54b0dc242d3f3d64382c115264f7eeba
+    m_Address: Assets/Art/Environment/_Prefabs/Blur/Sign/P_Sign_Blur.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 60bf724302bbdb54296fcc232f3d982a
+    m_Address: Assets/Art/Environment/_Prefabs/EnvironmentPieces/Rocks/P_Rock_Medium_C.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 64cd5fc4c3a14154a86eb0d638989502
+    m_Address: Assets/Art/Characters/_Prefabs/PV_Character_Skeleton_A.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 73ede0e39d05144b8b06451cf82a90f3
+    m_Address: Assets/Art/Environment/_Prefabs/EnvironmentPieces/LampAndLantern/P_Lamp.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 776e22c1bd94e471fbfe9f6c607607e8
+    m_Address: Assets/Art/Environment/EnvironmentPieces/Lamp/Mat_Lamp_Core.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7c9926895e77c4a7381dca8c7b281bdc
+    m_Address: Assets/Art/Environment/EnvironmentPieces/Rope/SpriteShape_Rope.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 83aa0ac219fb56c439e4f68d6d4ec57f
+    m_Address: Assets/Animations/Environment/Spider/Anim_Spider_Up.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 93a41afac9c1bac408cf9f68dc573c0d
+    m_Address: Assets/Art/Environment/_Prefabs/Blur/Planks/P_Plank_Blur_A.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 94fd1606a0c365e4583b324df233f926
+    m_Address: Assets/Art/Environment/_Prefabs/Blur/Spider/P_Spider.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 951dfb76df4ba414a8bda875c8c4f239
+    m_Address: Assets/Art/Environment/_Prefabs/EnvironmentPieces/Miscellaneous/P_Sign_Warning.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a04f945f78c51422e89e5a0a217ab88a
+    m_Address: Assets/Art/Environment/EnvironmentPieces/Lamp/Sprite_Lamp_Light_Core@2x.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a8b72742dfd94184288fc596a31a7421
+    m_Address: Assets/Art/Environment/_Prefabs/EnvironmentPieces/Lake/P_Lake.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: db74a683dde4c324f85cdf267d90dd3e
+    m_Address: Assets/Art/Environment/_Prefabs/Blur/Planks/P_Plank_Blur_C.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: debb0ea4c55c20a4b8db0f80ee361f70
+    m_Address: Assets/Art/Environment/_Prefabs/EnvironmentPieces/Smoke/P_VFX_Smoke_Horizontal.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ea77d3851418c46d6bfefbf4a59cb025
+    m_Address: Assets/Art/Weapons/_Prefabs/P_Weapon_Cutlass.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ee3febfdf77d4384f83c70b9ce80b0eb
+    m_Address: Assets/VFX/Lake/Sprites/Sprite_WaterFall.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f78111d867f50d34499a70cc50f5e99f
+    m_Address: Assets/Animations/Environment/Spider/AnimController_Spider.controller
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fca1acab7f891024da69f9ffb46635ff
+    m_Address: Assets/Art/Environment/_Prefabs/Blur/Planks/P_Plank_Blur_B.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: d92965523be699e4996929cc3d5c7897, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 30669f6f8f42b0e4f800d3310380fba6, type: 2}

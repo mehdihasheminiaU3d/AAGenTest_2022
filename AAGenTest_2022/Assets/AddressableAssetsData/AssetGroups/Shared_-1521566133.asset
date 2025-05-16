@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Shared_-1521566133
+  m_EditorClassIdentifier: 
+  m_GroupName: Shared_-1521566133
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 775b5e4cf4c48344f9d9f251401303ae
+  m_SerializeEntries:
+  - m_GUID: 5fd9a8feb75a4b5894c241777f519d4e
+    m_Address: Packages/com.unity.render-pipelines.universal/Shaders/Utils/MaterialError.shader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d6dae50ee9e1bfa4db75f19f99355220
+    m_Address: Packages/com.unity.render-pipelines.universal/Shaders/Utils/CopyDepth.shader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e9155b26e1bc55942a41e518703fe304
+    m_Address: Packages/com.unity.render-pipelines.universal/Shaders/Utils/StencilDeferred.shader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: d92965523be699e4996929cc3d5c7897, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 1195ba760ac4530439beaaf257304121, type: 2}

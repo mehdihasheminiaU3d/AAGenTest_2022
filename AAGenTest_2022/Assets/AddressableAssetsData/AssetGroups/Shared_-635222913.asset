@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Shared_-635222913
+  m_EditorClassIdentifier: 
+  m_GroupName: Shared_-635222913
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 63736919fda66db45beaa1da2c8bf2db
+  m_SerializeEntries:
+  - m_GUID: 257e221c7d14a40edaab05163ed5764b
+    m_Address: Assets/Audio/SFX/Environment/AudioClip_Ambience_LevelCave.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3cc1609eab78ceb4489e1ccfaafababb
+    m_Address: Assets/Timeline/UI/Timeline_UI_FadeFromBlack.playable
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4364ea7155ac1474488454d5886c2ab6
+    m_Address: Assets/Gameplay/_Prefabs/UI/CanvasOverlays/Debug/Canvas_Debug.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 630407a46f4bcb347ae715c917cc4f3e
+    m_Address: Assets/Gameplay/_Prefabs/Managers/Manager_ScreenFader.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 727aca6df0c4ab94eb47a6a27f920338
+    m_Address: Assets/Gameplay/_Prefabs/Managers/Manager_EventSystem.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a503d6ad00595a4419491aa9eebdd9fd
+    m_Address: Assets/Timeline/UI/Timeline_UI_FadeToBlack.playable
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b4269389a61984677af6b46d9c5213bf
+    m_Address: Assets/Audio/Music/AudioClip_Music_Darkling.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b47342bf56957784da6a33af14c9a270
+    m_Address: Assets/Gameplay/_Prefabs/Managers/Manager_Audio.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c32bd10888681e34b805562f628e793c
+    m_Address: Assets/Timeline/_Signals/Signal_TimelineFinished.signal
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: d92965523be699e4996929cc3d5c7897, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 2c7960558bc01b240853a71f394d871f, type: 2}

@@ -1,0 +1,654 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Shared_1000042659
+  m_EditorClassIdentifier: 
+  m_GroupName: Shared_1000042659
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 2febf07926456a64d914a3416b72c19a
+  m_SerializeEntries:
+  - m_GUID: 027d560e4e2734c35a17119eafda53e3
+    m_Address: Assets/Audio/SFX/Units/Wolfman/Abilities/AudioClip_Wolfman_Axe_Slice.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0534d55cc3858488d9a879e4e607db4f
+    m_Address: Assets/Audio/SFX/Units/Knight/Abilities/AudioClip_Knight_Tornado.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 074264db90980084090f085890fd1a52
+    m_Address: Assets/Gameplay/_Prefabs/Units/Unit_Base.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0c24d047919b79b4ebce25e31c2feaf0
+    m_Address: Assets/Timeline/Units/Knight/Timeline_Knight_Attack_Special.playable
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 125da67d9c18e0045a951c62e19f66f9
+    m_Address: Assets/Audio/SFX/Units/Knight/Death/AudioClip_Knight_Death_A.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 13645acedea13e04593c1ce5c312afd8
+    m_Address: Assets/Audio/SFX/Units/Witch/GetHit/AudioClip_Witch_GetHit_B.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 16131b490ddb3bd449c95de4443cf3c7
+    m_Address: Assets/Audio/SFX/Units/Witch/GetHit/AudioClip_Witch_GetHit_A.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1799129f58762a744ac37a429ed0f5e3
+    m_Address: Assets/Gameplay/_Data/Heroes/Wolfman/UnitData_Wolfman_Info_Oriz.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1a75f6d217acfc44d8d2c683f7239300
+    m_Address: Assets/VFX/NumberDisplay/Animation/AnimClip_NumberDisplay_Sequence.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1e02021f69b13884786eaee1256e18c0
+    m_Address: Assets/VFX/AbilityCharged/Materials/Mat_VFX_AbilityCharged.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 203a4104b35922d4a962dc7a669576cd
+    m_Address: Assets/Gameplay/_Data/Villains/Skeletons/Damak/UnitData_Skeleton_Ability_BasicAttack_A.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 20d6375a2105eb04ea33ccf7d0dd20e6
+    m_Address: Assets/Audio/SFX/Units/Knight/Death/AudioClip_Knight_Death_B.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 221aba2951a8e8647b43ad62fb4d3de3
+    m_Address: Assets/Gameplay/_Prefabs/UI/Unit Displays/UI_Unit_Display_Hero.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 227ff142e71db2140bc2285fc13a6a7e
+    m_Address: Assets/Gameplay/_Prefabs/UI/Generic/UI_Button.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 228652bda78afdd448d50950ba99ad5a
+    m_Address: Assets/VFX/UnitAbilities/Wolfman/AxeSparks/Sprite_Spark.tif
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 22dc1b5d547c32b4887dee1bd16907c3
+    m_Address: Assets/VFX/UnitAbilities/Wolfman/EarthShatter/Textures/RockShard/Sprite_Rock_Shard_Normal.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 232b1bbaef48ff5438b913c085f98593
+    m_Address: Assets/Gameplay/_Data/Heroes/Witch/UnitData_Witch_Info_Giorgia.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 235fedecf790aa94d892d91025d5bd45
+    m_Address: Assets/Timeline/UI/Timeline_UI_UnitDisplays.playable
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 26e88bb30281e37409ca95915cf1c7d2
+    m_Address: Assets/Audio/SFX/Units/Wolfman/Death/AudioClip_Wolfman_Death_C.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2762e697673cdd349a40cc47eca0a908
+    m_Address: Assets/Audio/SFX/Units/Knight/GetHit/AudioClip_Knight_GetHit_A.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2789e6c5ce4396c45bba69b90127a042
+    m_Address: Assets/Gameplay/_Data/Heroes/Witch/UnitData_Witch_SFX.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 28b0018cb070ac84295803198fbc44c6
+    m_Address: Assets/Gameplay/_Data/Villains/Skeletons/Jabban/UnitData_Skeleton_Ability_BasicAttack_B.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2a2be56b09a2b4941a346b8d32b2098c
+    m_Address: Assets/Audio/SFX/Units/Witch/Abilities/AudioClip_Witch_Hmm.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2ea4b9007e14048498521d4f918e37ae
+    m_Address: Assets/Timeline/_Signals/Signal_AbilityHappened.signal
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2edcfdfdb01c76b4c9d26744140cd935
+    m_Address: Assets/VFX/AbilityCharged/Animation/AnimClip_VFX_AbilityActivate.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2fedec97d25814853a7226eb123de69f
+    m_Address: Assets/Audio/SFX/Units/Knight/Abilities/AudioClip_Knight_SwordSlash.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 30c3b5ee1ab544f459527d7429b0f3cc
+    m_Address: Assets/Gameplay/_Prefabs/Units/Unit_Skeleton_Yuanxing.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 34ef62d001f3fb1459d66d2bd8bfc765
+    m_Address: Assets/VFX/UnitAbilities/Wolfman/AxeSparks/Mat_Wolfman_VFX_AxeSparks.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 37234df482dd59d4d970364785c232b1
+    m_Address: Assets/Audio/SFX/Units/Wolfman/Death/AudioClip_Wolfman_Death_A.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 39aa4cbf5ef2fe44799415c468705a37
+    m_Address: Assets/Audio/SFX/Units/Knight/GetHit/AudioClip_Knight_GetHit_B.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3ba68600d37c2d14e8e445ec9e010370
+    m_Address: Assets/Timeline/Units/Wolfman/Timeline_Wolfman_Attack_Special.playable
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3c74b87d15debd84696ba75ef5b3a911
+    m_Address: Assets/Timeline/Cutscenes/Timeline_Cutscene_Intro_Skeletons.playable
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3f3262d1093edf44ab59cb51465e40f2
+    m_Address: Assets/Gameplay/_Prefabs/UI/CanvasOverlays/Canvas_Victory.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 41594e6217c589f46b7453e95fc0ad5a
+    m_Address: Assets/VFX/NumberDisplay/_Prefabs/P_NumberDisplay.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 43fde69af91311146984a6d878089604
+    m_Address: Assets/Gameplay/_Data/Villains/Skeletons/Yuanxing/UnitData_Skeleton_Info_Yuanxing.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4750d411f51b4d54a979c77ee6626827
+    m_Address: Assets/VFX/AbilityCharged/Sprites/Sprite_Star_B.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4b4ed99cded1c384ab2cd63b8178d7a6
+    m_Address: Assets/Gameplay/_Prefabs/Units/Unit_Skeleton_Damak.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4be88d42a6de6af48b30a1b9ab19be32
+    m_Address: Assets/Gameplay/_Data/Heroes/Knight/UnitData_Knight_Ability_SpecialAttack.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4bec857bcf6cfa3449ae16abdfeb57aa
+    m_Address: Assets/Timeline/Units/Witch/Timeline_Witch_Attack_Special.playable
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4cdc501ebd774604487aa4c2ef06a0bc
+    m_Address: Assets/Audio/SFX/Units/Knight/Abilities/AudioClip_Knight_Ha.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4d2327bf4f5626549bcdad1296a34acd
+    m_Address: Assets/Gameplay/_Data/Heroes/Knight/UnitData_Knight_Info_Jarek.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4ec9bb458ea7b4d8bb47aa415c426014
+    m_Address: Assets/Art/UI/Banner/UI_Banner_Wing_Defeat.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 50c2993dd55467646b3ab4702dd10c2d
+    m_Address: Assets/Audio/SFX/Units/Skeleton/GetHit/AudioClip_Skeleton_GetHit_A.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 53f71a3eafe22d34ebfe38ad450ab2d4
+    m_Address: Assets/Gameplay/_Data/Villains/Skeletons/Damak/UnitData_Skeleton_Info_Damak.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 57f8ad4feeada2a409d7f7537cb84eb9
+    m_Address: Assets/Timeline/Units/Witch/Timeline_Witch_Attack_Basic.playable
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 59425a4fd85a15c48aa129a4817fe816
+    m_Address: Assets/Gameplay/_Data/Heroes/Knight/UnitData_Knight_SFX.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 59e6dff72ce24df4192e469963b184cd
+    m_Address: Assets/Gameplay/_Prefabs/Managers/Manager_DamageDisplays.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5bc18fe35a8058f46a5f2d75585cea83
+    m_Address: Assets/Gameplay/_Prefabs/Units/Unit_Wolfman_Oriz.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5d1070c87e8980246a0d8c74d22e2661
+    m_Address: Assets/Gameplay/_Prefabs/UI/Generic/UI_Slider_Display.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5da07d4f437a2aa4e889a82748161b3a
+    m_Address: Assets/VFX/UnitAbilities/Wolfman/EarthShatter/Materials/Mat_Wolfman_VFX_Dust.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5dd2fd481de374948a061533f4fc122b
+    m_Address: Assets/Audio/SFX/Units/Witch/Abilities/AudioClip_Witch_EnergyBall.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5efd0968642c3f04c8111169844cd8d4
+    m_Address: Assets/Gameplay/_Data/Heroes/Wolfman/UnitData_Wolfman_SFX.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 61fd1d3a022554e62adf7f2465da3fc6
+    m_Address: Assets/Audio/SFX/Units/Witch/Abilities/AudioClip_Witch_Speech.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 62b2032b111d8489aadd6b3e1b476a8d
+    m_Address: Assets/Audio/Music/AudioClip_Music_MorganaRides.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6dc139f0f5f1243899db0eb5558d57cb
+    m_Address: Assets/Timeline/UI/Timeline_UI_Banner.playable
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6e245a9ae01adc0499d7147e3c23a0a1
+    m_Address: Assets/VFX/HitEffect/ObjectPool/Data_ObjectPool_HitVFX.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 74768ab6d9df09c43baccdda2aeafe24
+    m_Address: Assets/Gameplay/_Data/Villains/Skeletons/Yuanxing/UnitData_Skeleton_Ability_BasicAttack_C.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 776677ab3818fb249adaca05f4e04545
+    m_Address: Assets/VFX/UnitAbilities/Wolfman/EarthShatter/Materials/Mat_Wolfman_VFX_Embers.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 77f247920f665f142a9f31b0b9787c7d
+    m_Address: Assets/Fonts/AnderHedge/Ander Hedge SDF BTN Green.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 794c60657230e404ba220021cbfa2827
+    m_Address: Assets/Timeline/Units/Knight/Timeline_Knight_Attack_Basic.playable
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7b416c5731e5341bdace52218621ce73
+    m_Address: Assets/Art/UI/Banner/UI_Banner_Victory.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7c7f1a369037bfc41ab052ee8e042ee1
+    m_Address: Assets/Gameplay/_Data/Heroes/Wolfman/UnitData_Wolfman_Ability_BasicAttack.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7ff4d9124db2076488a39eb46e15175b
+    m_Address: Assets/VFX/UnitAbilities/Wolfman/EarthShatter/Materials/Mat_Wolfman_VFX_Debris.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 84611579518c11940b153615f6a4f508
+    m_Address: Assets/Gameplay/_Prefabs/UI/Unit Displays/UI_Unit_Display_Enemy.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8653d6322fcd58c4d848f3525f3744ae
+    m_Address: Assets/VFX/UnitAbilities/Wolfman/EarthShatter/Textures/Cracks/Sprite_Cracks.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 867c92ce67ded1840bcf292968383c53
+    m_Address: Assets/Audio/SFX/Units/Witch/Death/AudioClip_Witch_Death_C.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 87aad92970eb6034baa0046596856b76
+    m_Address: Assets/Audio/SFX/Units/Wolfman/GetHit/AudioClip_Wolfman_GetHit_C.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8ad1c426d495a34488419828be192ebd
+    m_Address: Assets/Gameplay/_Data/Villains/Skeletons/Shared/UnitData_Skeleton_Ability_SpecialAttack.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8bedd342a1545d84bbb91eb7fb98d1cf
+    m_Address: Assets/Fonts/AnderHedge/Ander Hedge SDF Hit Numbers.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8bf1381f67f725a4b97887a1cf0ff1a9
+    m_Address: Assets/VFX/UnitAbilities/Witch/Mat_Witch_VFX_ThunderBolt.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8ce4c04112bb74402b1a8bbcca7718c0
+    m_Address: Assets/Art/UI/Banner/UI_Banner_Defeat.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8fe36ef76989a4c178a9630e62f30484
+    m_Address: Assets/Audio/SFX/Units/Wolfman/Abilities/AudioClip_Wolfman_EarthShatter_Debris.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 922ab8858083ec746809c57f2482032f
+    m_Address: Assets/VFX/UnitAbilities/Witch/Texture_Gradient_Ring.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 93b461f718b65574dac19844b28adc1b
+    m_Address: Assets/ShaderGraphs/ShaderGraph_Sprite_Lit_ThresholdAnim.shadergraph
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 97262057b7d71dc4fa45432f34640679
+    m_Address: Assets/VFX/UnitAbilities/Knight/Sprite_Slash.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 97324d30bf15f5145bc332f72c95243d
+    m_Address: Assets/VFX/UnitAbilities/Witch/Mat_Witch_VFX_EmberTrail.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9cf068a7634ae484bbeef93360f04088
+    m_Address: Assets/Audio/SFX/Units/Wolfman/GetHit/AudioClip_Wolfman_GetHit_A.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9d5fc8d1f6e201f4a98757993aa12946
+    m_Address: Assets/Audio/SFX/Units/Witch/Death/AudioClip_Witch_Death_B.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9e4adac3b4d37e84d90eb723d1fb3f0b
+    m_Address: Assets/Scenes/Gameplay/Scene_Battle_Skeletons.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9e815a92cfb0c5f42879d2a7080aa393
+    m_Address: Assets/Timeline/Units/Wolfman/Timeline_Wolfman_Attack_Basic.playable
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9ebf5fc4a5e98d149bd6f4bb5b534a8d
+    m_Address: Assets/VFX/UnitAbilities/Wolfman/EarthShatter/Materials/Mat_Wolfman_VFX_Cracks.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a0a431329f69e7a4887b5fd1f7b20473
+    m_Address: Assets/VFX/AbilityCharged/_Prefabs/P_VFX_UI_AbilityCharged.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a6dc339185554c74d9709aa3e4942e38
+    m_Address: Assets/Gameplay/_Prefabs/Units/Unit_Witch_Giorgia.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a74c436cb5eb24afaaaf3145a1fc0fef
+    m_Address: Assets/Audio/SFX/Units/General/AudioClip_General_Growl.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aa456d1305594d44e8e5484933161210
+    m_Address: Assets/Audio/SFX/Units/Skeleton/GetHit/AudioClip_Skeleton_GetHit_B.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ab4f7fa8fdea9d74c92a36a939e924fb
+    m_Address: Assets/Gameplay/_Prefabs/Managers/Manager_BattleGameplay.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ad0872bf6db733d49ba395e6a790a606
+    m_Address: Assets/VFX/UnitAbilities/Wolfman/EarthShatter/Textures/RockShard/Sprite_Rock_Shard_Threshold.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ad251233c4282e14993c120c8c3ad21e
+    m_Address: Assets/Gameplay/_Prefabs/Units/Unit_Skeleton_Jabban.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b78d7e8a4d7d22d41bc6a3d749df73d2
+    m_Address: Assets/Timeline/Units/Skeleton/Timeline_Skeleton_Attack_Basic.playable
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bb8654b18d2ffcd4bbe17c9e61f14222
+    m_Address: Assets/VFX/AbilityCharged/Sprites/Sprite_Star_A.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bbad777603951c443b3d7c7b6578e370
+    m_Address: Assets/Audio/SFX/Units/Skeleton/Death/AudioClip_Skeleton_Death_B.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bdd9d860ac2996140bd963021c403f3b
+    m_Address: Assets/Audio/SFX/Units/Knight/GetHit/AudioClip_Knight_GetHit_C.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bed1157cae8afca41a904f021c5993a6
+    m_Address: Assets/Gameplay/_Prefabs/UI/CanvasOverlays/Canvas_CinematicBars.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c077d02f12aa53b488bb03de31df4639
+    m_Address: Assets/Audio/SFX/Units/Knight/Death/AudioClip_Knight_Death_C.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c10ea0c5c156ce44eb58cb98d0f6f83b
+    m_Address: Assets/Fonts/AnderHedge/Ander Hedge SDF BTN Red.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c2da931a86c2c44488c9ee3829f67106
+    m_Address: Assets/VFX/NumberDisplay/ObjectPool/Data_ObjectPool_NumberDisplay.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c6667034572276247bb806c7be43962c
+    m_Address: Assets/Gameplay/_Data/Villains/Skeletons/Shared/UnitData_Skeleton_SFX.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c799f3257486c4cc8bcadc90ada76c2f
+    m_Address: Assets/Art/UI/SpecialCharge/Mat_UI_SpecialCharge.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: caba2650f118d7d458c2f4a211361f0b
+    m_Address: Assets/VFX/UnitAbilities/Knight/Mat_Knight_VFX_Tornado.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cc17dddbdf351f14d9d2f7ba21bde916
+    m_Address: Assets/Gameplay/_Data/Heroes/Knight/UnitData_Knight_Ability_BasicAttack.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ccfab9270e58c11439c22ff6b39eb0f9
+    m_Address: Assets/Gameplay/_Data/Villains/Skeletons/Jabban/UnitData_Skeleton_Info_Jabban.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d09e26172e15ce64690afb42c6708c68
+    m_Address: Assets/VFX/UnitAbilities/Wolfman/EarthShatter/Materials/Mat_Wolfman_VFX_RockSpike.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d4a4fb8e5b1e7244a8db1691868f901e
+    m_Address: Assets/Gameplay/_Data/Heroes/Witch/UnitData_Witch_Ability_SpecialAttack.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d669a7847409b904c92632b81c51a3ed
+    m_Address: Assets/Fonts/AnderHedge/Ander Hedge SDF Header.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d6f94aa9ae11f834f99895e8b2c9ad6b
+    m_Address: Assets/Gameplay/_Prefabs/UI/CanvasOverlays/Canvas_Defeat.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dbae11eaae4345e47bcf9c4201fd931c
+    m_Address: Assets/VFX/UnitAbilities/Wolfman/EarthShatter/Textures/RockShard/Sprite_Rock_Shard_Mask.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ddc1be7d4328e43d3938e548bd7377ab
+    m_Address: Assets/Art/UI/Banner/UI_Banner_Wing_Victory.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dddebf2e3e2767840b9f526d45339bd5
+    m_Address: Assets/Audio/SFX/Units/Skeleton/Death/AudioClip_Skeleton_Death_A.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: de666eb15cd2a6f41a63316dc38c3b3a
+    m_Address: Assets/Gameplay/_Data/Heroes/Wolfman/UnitData_Wolfman_Ability_SpecialAttack.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: decb341dd6353dc4db82ebd87412c02f
+    m_Address: Assets/Audio/SFX/Units/Witch/Abilities/AudioClip_Witch_Thunderbolt.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: deee523d53ff09a4ba321c8e803cb3b8
+    m_Address: Assets/Audio/SFX/Units/Wolfman/GetHit/AudioClip_Wolfman_GetHit_B.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: df2095388c3c841ce86908aae1592157
+    m_Address: Assets/Audio/SFX/Units/General/AudioClip_General_Running.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e00ac121338f9344b8e1da98b29b0e7b
+    m_Address: Assets/Audio/Music/AudioClip_Fanfares_Victory.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ea502b67783ddd44daee0c61ed6d252a
+    m_Address: Assets/Timeline/Cutscenes/Timeline_Cutscene_BattleEnded_Banner.playable
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ee1a2ba7a69adbe468261565ce4f3cf4
+    m_Address: Assets/VFX/UnitAbilities/Knight/Mat_Knight_VFX_WindSlash.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f32401a57cf6f934db488b8ec58231c4
+    m_Address: Assets/Audio/Music/AudioClip_Fanfares_Defeat.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f7a1bb3e8d452194798a4a4a888a63d7
+    m_Address: Assets/Audio/SFX/Units/Wolfman/GetHit/AudioClip_Wolfman_GetHit_D.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f7da1ed91ceda3b44bb897933582ee87
+    m_Address: Assets/Audio/SFX/Units/Wolfman/Death/AudioClip_Wolfman_Death_B.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f9040afe462ce8941a359acbfe4ca976
+    m_Address: Assets/VFX/UnitAbilities/Wolfman/EarthShatter/Textures/RockShard/Sprite_Rock_Shard.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fac140664ee0f0a4c870ed8c4b13e7a6
+    m_Address: Assets/Audio/SFX/Units/Witch/Death/AudioClip_Witch_Death_A.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: facc21da9271af6488cb3c96e2b9feba
+    m_Address: Assets/Timeline/UI/Timeline_UI_BlackBars.playable
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fccd1276d1e03604ba156745f06411e6
+    m_Address: Assets/Gameplay/_Prefabs/Units/Unit_Knight_Jarek.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fd44f527653d56c479e55ad20e49823d
+    m_Address: Assets/Timeline/Units/Skeleton/Timeline_Skeleton_Attack_Special.playable
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fd480cd4226fda3459c494344ff2796d
+    m_Address: Assets/Gameplay/_Data/Heroes/Witch/UnitData_Witch_Ability_BasicAttack.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fe3f7535aa8df8c4e969c40ca453b950
+    m_Address: Assets/Audio/SFX/Units/Witch/GetHit/AudioClip_Witch_GetHit_C.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fea1cb238bf1a44ea90a7e65c201f202
+    m_Address: Assets/Audio/SFX/Units/Wolfman/Abilities/AudioClip_Wolfman_EarthShatter_OpenAndClose.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: d92965523be699e4996929cc3d5c7897, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: f63eed3e885fcb5438b7e9b65d14818b, type: 2}

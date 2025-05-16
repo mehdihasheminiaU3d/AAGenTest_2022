@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Shared_637348947
+  m_EditorClassIdentifier: 
+  m_GroupName: Shared_637348947
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 806196ffa5cb01947a04bdb70ed7f9ab
+  m_SerializeEntries:
+  - m_GUID: 0f6e1b59818684e808085f1d288d4175
+    m_Address: Assets/Art/Environment/EnvironmentPieces/Crystals/Crystal_B/Sprite_Crystal_B.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 119e19434c5964875a6b9b8a05589c54
+    m_Address: Assets/Art/Environment/EnvironmentPieces/Crystals/Crystal_E/Sprite_Crystal_E.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 22c638972965e42ceb0f8766d89b1917
+    m_Address: Assets/Sprite Atlases/CrystalsGlow.spriteatlas
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2657e41da23503d4baa122e33eda4de3
+    m_Address: Assets/Art/Environment/EnvironmentPieces/Crystals/Crystal_A/Sprite_Crystal_A.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4917ba517fa3a47b58856c99621ca3b6
+    m_Address: Assets/Art/Environment/EnvironmentPieces/Crystals/Crystal_D/Sprite_Crystal_D_Mask.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6522b32603d134582b7105ce57c64546
+    m_Address: Assets/Art/Environment/EnvironmentPieces/Crystals/Crystal_B/Sprite_Crystal_B_Mask.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 746e24ca92b3c4136b94e4dd61fab6d0
+    m_Address: Assets/Art/Environment/EnvironmentPieces/Crystals/Crystal_D/Sprite_Crystal_D.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8f66c575343f742848a15bfb1a4bf403
+    m_Address: Assets/Art/Environment/EnvironmentPieces/Crystals/Crystal_F/Sprite_Crystal_F_Mask.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c3041d0480c2b0040aaf844cbcd488a4
+    m_Address: Assets/Art/Environment/SpriteLibraries/SpriteLibrary_Crystals.spriteLib
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c92fc46a66a114e7f839c4e44816f30f
+    m_Address: Assets/Art/Environment/EnvironmentPieces/Crystals/Crystal_A/Sprite_Crystal_A_Mask.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f719262a21a8f449ebd2b3bf553c5f87
+    m_Address: Assets/Art/Environment/EnvironmentPieces/Crystals/Crystal_F/Sprite_Crystal_F.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: d92965523be699e4996929cc3d5c7897, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 6bdbe7dec01a94e48af338825bd18ed4, type: 2}

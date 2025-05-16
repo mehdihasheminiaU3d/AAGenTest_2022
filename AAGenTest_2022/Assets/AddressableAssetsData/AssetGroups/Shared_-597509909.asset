@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Shared_-597509909
+  m_EditorClassIdentifier: 
+  m_GroupName: Shared_-597509909
+  m_Data:
+    m_SerializedData: []
+  m_GUID: d0ce856e163c3344fb83f9304a273195
+  m_SerializeEntries:
+  - m_GUID: 15d0c3709176029428a0da2f8cecf0b5
+    m_Address: Packages/com.unity.render-pipelines.universal/Runtime/Materials/SpriteMask-Default.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 44fc62292b65ab04eabcf310e799ccf6
+    m_Address: Packages/com.unity.render-pipelines.universal/Shaders/2D/Shadow2D-Shadow-Sprite.shader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5688ab254e4c0634f8d6c8e0792331ca
+    m_Address: Packages/com.unity.render-pipelines.universal/Runtime/2D/Data/Textures/FalloffLookupTexture.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 77774d9009bb81447b048c907d4c6273
+    m_Address: Packages/com.unity.render-pipelines.universal/Shaders/2D/Shadow2D-Unshadow-Geometry.shader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 778fa29fc3929f24184f727aebf9b5e4
+    m_Address: Assets/RenderPipeline/2DRenderer.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7e60080c8cd24a2468cb08b4bfee5606
+    m_Address: Packages/com.unity.render-pipelines.universal/Shaders/2D/Light2D-Shape-Volumetric.shader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c7d04ca57e5449d49ad9cee1c604bc26
+    m_Address: Packages/com.unity.render-pipelines.universal/Shaders/2D/Light2D-Point-Volumetric.shader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ce09d4a80b88c5a4eb9768fab4f1ee00
+    m_Address: Packages/com.unity.render-pipelines.universal/Shaders/2D/Shadow2D-Projected.shader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d79e1c784eaf80c4585c0be7391f757a
+    m_Address: Packages/com.unity.render-pipelines.universal/Shaders/2D/Light2D-Shape.shader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: de02b375720b5c445afe83cd483bedf3
+    m_Address: Packages/com.unity.render-pipelines.universal/Shaders/2D/Shadow2D-Unshadow-Sprite.shader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e35a31e1679aeff489e202f5cc4853d5
+    m_Address: Packages/com.unity.render-pipelines.universal/Shaders/2D/Light2D-Point.shader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e39bd598ce13f44ba8af997d3e42cd18
+    m_Address: Packages/com.unity.render-pipelines.universal/Shaders/2D/Sprite-Mask.shader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: d92965523be699e4996929cc3d5c7897, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: ee0012339b85f9544b8a6a97df939514, type: 2}

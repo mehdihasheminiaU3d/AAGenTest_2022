@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Readme.asset_Assets
+  m_EditorClassIdentifier: 
+  m_GroupName: Readme.asset_Assets
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 1607024a114c7074f9be8b84bb37a8f9
+  m_SerializeEntries:
+  - m_GUID: 83c2ed844a8c74b779a4c823d16594b1
+    m_Address: Assets/Help/Readme.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 888804c55962747fb80c27bfbe4e58b6
+    m_Address: Assets/Help/Readme/Icons/Icon_DragonCrashers.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: d92965523be699e4996929cc3d5c7897, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 01ff8ce056bd3054f88507f93a366fa7, type: 2}

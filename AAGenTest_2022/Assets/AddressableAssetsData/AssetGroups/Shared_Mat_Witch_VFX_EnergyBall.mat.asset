@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Shared_Mat_Witch_VFX_EnergyBall.mat
+  m_EditorClassIdentifier: 
+  m_GroupName: Shared_Mat_Witch_VFX_EnergyBall.mat
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 6c1971fa51025d9409e8ec6f439a38e5
+  m_SerializeEntries:
+  - m_GUID: c8cc1e1b33bdce7449b629f4ed6a831c
+    m_Address: Assets/VFX/UnitAbilities/Witch/Mat_Witch_VFX_EnergyBall.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: d92965523be699e4996929cc3d5c7897, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: eb67bdade729e354793e0a48d369ba06, type: 2}

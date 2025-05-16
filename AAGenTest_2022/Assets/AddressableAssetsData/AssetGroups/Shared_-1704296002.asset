@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Shared_-1704296002
+  m_EditorClassIdentifier: 
+  m_GroupName: Shared_-1704296002
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 837ac7b1d75381540a72ebb9363bf1b7
+  m_SerializeEntries:
+  - m_GUID: ad685159055e71f4a967662fee8cf0c4
+    m_Address: Assets/Art/Environment/EnvironmentPieces/Skull/Sprite_Skull_Mask.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b5ca55792ee744c2a81485e67bc1e6cb
+    m_Address: Assets/Art/Environment/EnvironmentPieces/Skull/Sprite_Skull@2x.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ff72f6776f0bd4e9188df7c617250100
+    m_Address: Assets/Art/Environment/EnvironmentPieces/Skull/Sprite_Skull_Normal@2x.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: d92965523be699e4996929cc3d5c7897, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 94682b3f040db7e4bac09cbcb602b61c, type: 2}

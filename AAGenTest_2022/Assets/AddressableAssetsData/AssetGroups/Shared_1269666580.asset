@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Shared_1269666580
+  m_EditorClassIdentifier: 
+  m_GroupName: Shared_1269666580
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 34614d99029197d40af35d0db6a533ce
+  m_SerializeEntries:
+  - m_GUID: 0ceec60fe1ba645589cf8e135fc6a938
+    m_Address: Assets/Art/Environment/EnvironmentPieces/Rocks/WallCorner/Sprite_Rock_WallCorner_Normal.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 103f78e82d59c4dd9849a500560710cb
+    m_Address: Assets/Art/Environment/EnvironmentPieces/LanternPost/Sprite_LanternPost.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3399810697fb7488c9d10d846f436fae
+    m_Address: Assets/Art/Environment/EnvironmentPieces/Chain/Sprite_Chain_Normal.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3658ebd4678584a249dc54e600e7ed37
+    m_Address: Assets/Art/Environment/EnvironmentPieces/Chain/Sprite_Chain.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3bafa9112726c4d2ab7cfd91e82d6bc7
+    m_Address: Assets/Art/Environment/EnvironmentPieces/Rocks/Column/Sprite_Rock_Column.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 48095911c7e1c4b828f6f25410051765
+    m_Address: Assets/Art/Environment/EnvironmentPieces/LanternPost/Sprite_LanternPost_Normal.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 486f5b92fa3be462ab3580fa0d704096
+    m_Address: Assets/Art/Environment/EnvironmentPieces/Rocks/Column/Sprite_Rock_Column_Normal.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 51d1921b7f1a14d9bb52291638eccd73
+    m_Address: Assets/Art/Environment/EnvironmentPieces/Rocks/Column/Sprite_Rock_Column_Mask.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 89a93a499901ecf4683599cc5faf261a
+    m_Address: Assets/Art/Environment/EnvironmentPieces/Chain/Sprite_Chain_Mask.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b584df5623be74a76a0b727398626f7f
+    m_Address: Assets/Art/Environment/EnvironmentPieces/Rocks/WallCorner/Sprite_Rock_WallCorner_Mask.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bd8c4df7905a3b9408446edd96b99cf1
+    m_Address: Assets/Art/Environment/EnvironmentPieces/LanternPost/Sprite_LanternPost_Mask.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ccf8f0f8804694152afecea701a0c73b
+    m_Address: Assets/Art/Environment/EnvironmentPieces/Rocks/WallCorner/Sprite_Rock_WallCorner.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: d92965523be699e4996929cc3d5c7897, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 06a52e3759b63c6429edc73f557a2af1, type: 2}

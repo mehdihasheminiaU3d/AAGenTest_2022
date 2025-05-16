@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Shared_2133787215
+  m_EditorClassIdentifier: 
+  m_GroupName: Shared_2133787215
+  m_Data:
+    m_SerializedData: []
+  m_GUID: b352e451150d8814b93e8750c7275fd2
+  m_SerializeEntries:
+  - m_GUID: a6ea62ddb13b49046a363dabe202db90
+    m_Address: Assets/Art/UI/TextBackground/UI_TextBackground.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c5370845115be444d86636f842537b15
+    m_Address: Assets/Fonts/AnderHedge/Ander Hedge SDF Window Title.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e6f05fe027733e641b4fa4d02e74d735
+    m_Address: Assets/VolumeProfile/VolumeProfile_Banner.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: d92965523be699e4996929cc3d5c7897, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 022de965456bab841b9fa8a26284349a, type: 2}

@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Shared_-1149302228
+  m_EditorClassIdentifier: 
+  m_GroupName: Shared_-1149302228
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 9e95ae27911fa4c499c1794194cec43f
+  m_SerializeEntries:
+  - m_GUID: 1e628bbfc4a214f59b6bb26ac023a650
+    m_Address: Assets/Art/Environment/Blur/Stalactites/Sprite_Stalactites_Blur_A.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2311b0af3649041c0b05c650694d2a39
+    m_Address: Assets/Art/Environment/Blur/Rocks/Sprite_Rock_Blur_C.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 263c9875c1e2a4c2ba6a636b825371f0
+    m_Address: Assets/Art/Environment/Blur/Rocks/Sprite_Rock_Blur_F.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7d7444642290945f68474e4861ba6d74
+    m_Address: Assets/Art/Environment/Blur/Rocks/Sprite_Rock_Blur_A.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: abb440e24557d44e2baad3121540efcf
+    m_Address: Assets/Art/Environment/Blur/Rocks/Sprite_Rock_Blur_B.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bd48dae20571c4fc89f6db4a8ce172d7
+    m_Address: Assets/Art/Environment/Blur/Rocks/Sprite_Rock_Blur_E.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: d92965523be699e4996929cc3d5c7897, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: af9b6e56b60ee894ea469672dc3d54e1, type: 2}

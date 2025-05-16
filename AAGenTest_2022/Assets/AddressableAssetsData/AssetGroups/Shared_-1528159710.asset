@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Shared_-1528159710
+  m_EditorClassIdentifier: 
+  m_GroupName: Shared_-1528159710
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 57ee1d0026474f14ca05bb08d786d73e
+  m_SerializeEntries:
+  - m_GUID: 9497c561156f840b590959c9410a7e14
+    m_Address: Assets/Art/Environment/EnvironmentPieces/CoinPile/Sprite_CoinPile_A.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: daec103369f9c44e6b59b6bd18ffc630
+    m_Address: Assets/Art/Environment/EnvironmentPieces/CoinPile/Sprite_CoinPile_A_Normal.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: d92965523be699e4996929cc3d5c7897, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 05501e353609986408c2bbeedf4bd2c3, type: 2}

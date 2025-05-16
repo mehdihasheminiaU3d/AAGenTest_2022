@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Shared_-264904251
+  m_EditorClassIdentifier: 
+  m_GroupName: Shared_-264904251
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 4f25c6eb28ae4e4498df0b7d61d0b9a2
+  m_SerializeEntries:
+  - m_GUID: 0be0ac8bc3ead497e9dcdb123ed3a11c
+    m_Address: Assets/Animations/Characters/AnimClips/Dragon/AnimClip_Character_Dragon_Idle.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 35d83510141de4b07bb41c9d3f3b8f40
+    m_Address: Assets/Animations/Characters/AnimClips/Dragon/AnimClip_Character_Dragon_GetHit.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4c82366c43d024cefae24412c445f139
+    m_Address: Assets/Animations/Characters/AnimClips/Dragon/AnimClip_Character_Dragon_FireBreath.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6c2edc49740924f749fa90ae9e37954e
+    m_Address: Assets/Animations/Characters/AnimClips/Dragon/AnimClip_Character_Dragon_Death.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: d92965523be699e4996929cc3d5c7897, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: c2073de085c79754e9d6a5e36f2c3d27, type: 2}

@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Shared_1651300651
+  m_EditorClassIdentifier: 
+  m_GroupName: Shared_1651300651
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 2ca121b521d3773408ed8d0c5478390a
+  m_SerializeEntries:
+  - m_GUID: 1d02b7e5dffc45247a34228774f8690b
+    m_Address: Assets/Art/Environment/Backgrounds/Sprite_Background_Cave_B.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1ff6da8d9cc4d0c4fbe0c47dbd74acc0
+    m_Address: Assets/Art/Environment/Backgrounds/Sprite_Background_Cave_C.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b47b0509df6bc6f4caf43231eae56a63
+    m_Address: Assets/Art/Environment/Backgrounds/Sprite_Background_Cave_E.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ec12498cb11a6fe408991ad450809541
+    m_Address: Assets/Art/Environment/Backgrounds/Sprite_Background_Cave_D.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f59e8005bec852841b61f2b0b72d3dad
+    m_Address: Assets/Sprite Atlases/Backgrounds.spriteatlas
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: d92965523be699e4996929cc3d5c7897, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: d57acbbed63c2f1478a4155b53bffeec, type: 2}

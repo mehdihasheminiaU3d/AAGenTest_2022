@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Scene_Prefabs_Lineup.unity_Assets
+  m_EditorClassIdentifier: 
+  m_GroupName: Scene_Prefabs_Lineup.unity_Assets
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 9d6db5263c2a41d45837ca1aa0341f8e
+  m_SerializeEntries:
+  - m_GUID: 674c8c13d9e57664f99b334d0326ca2b
+    m_Address: Assets/Art/Environment/_Prefabs/Blur/Bucket/P_Bucket_Blur.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7cd446f49a6c75a40821bb08e58feab3
+    m_Address: Assets/Scenes/Prefabs/Scene_Prefabs_Lineup.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d294cf56f7bfb0b489520fe1032aa1ee
+    m_Address: Assets/Art/Environment/_Prefabs/EnvironmentPieces/Crates/P_Crate.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d5ba0b90044ad5b4c9d89ede9b0a40a1
+    m_Address: Assets/Art/Environment/_Prefabs/EnvironmentPieces/Crystals/P_Crystal_I.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e806a8fc363ba5a4c8ec56554094c4f9
+    m_Address: Assets/Art/Environment/_Prefabs/EnvironmentPieces/MineCart/P_MineCart.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f730fe61060a7b14f8b80d22aae3a372
+    m_Address: Assets/Art/Environment/_Prefabs/Backgrounds/P_Background_Cave_A.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: d92965523be699e4996929cc3d5c7897, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 810350646fd5fe54eab68335bf83d909, type: 2}

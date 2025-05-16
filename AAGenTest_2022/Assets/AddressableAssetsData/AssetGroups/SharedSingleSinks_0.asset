@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: SharedSingleSinks_0
+  m_EditorClassIdentifier: 
+  m_GroupName: SharedSingleSinks_0
+  m_Data:
+    m_SerializedData: []
+  m_GUID: f53604e9232896c41808e4677b942c76
+  m_SerializeEntries:
+  - m_GUID: 1273ede115af2eb4da901469b961d3d7
+    m_Address: Assets/VFX/Lava/ShaderGraphs/SubGraph_FlowMap.shadersubgraph
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2a688227816194a0ea3d142eb287bd5f
+    m_Address: Assets/Art/Environment/Blur/Volcano/Sprite_Volcano_Blur.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 487c14efab110014c9ef19af82cbc2a2
+    m_Address: Assets/VFX/Lava/Sprites/Lava/Sprite_Lava_B.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4c9af463202856d48bdb8f9053c10b18
+    m_Address: Assets/VFX/Lava/SpriteShape/SpriteShape_Lava.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 52539adaa54ac5f4d99df17806470ce7
+    m_Address: Assets/Animations/Characters/AnimClips/Knight/Anim_Character_Knight_Idle.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 65a7c5b288ad9ea4ba3df2c223d834c3
+    m_Address: Assets/VFX/Lava/Sprites/Lava/Sprite_Splatter.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6cda457ac28612740adb23da5d39ea92
+    m_Address: Packages/com.unity.render-pipelines.universal/Shaders/PostProcessing/LensFlareDataDriven.shader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9480241d8f7ab004bb5b8b0f898d56da
+    m_Address: Assets/VFX/UnitAbilities/Dragon/Textures/Sprite_Fire_Alpha.tga
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 959b0ff77d0859141bc2fee7656f978f
+    m_Address: Assets/ShaderGraphs/ShaderGraph_Particles_Unlit.shadergraph
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 99d978adca50e45cda0272cb8398c243
+    m_Address: Assets/Art/Weapons/Sword/Sprite_Weapon_Sword_Normal.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cec10d286bf33ee4d8e31bc21a744a0d
+    m_Address: Assets/VFX/Rays/Sprite_Rays.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d31b5a5ac9caf4370876a873e4adcd6a
+    m_Address: Assets/Art/Environment/Blur/Planks/Sprite_Plank_Blur_A.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d8b955cd0f41c48f2ad5a65d263f662e
+    m_Address: Assets/VFX/Smoke/Sprite_Smoke_Blurred.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e260cfa7296ee7642b167f1eb5be5023
+    m_Address: Packages/com.unity.render-pipelines.universal/Shaders/2D/Sprite-Lit-Default.shader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f24fdb66534ab45f9a04513c5d36d083
+    m_Address: Assets/Art/Environment/EnvironmentPieces/Crystals/Crystal_I/Sprite_Crystal_I.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f9e053679e062465081f208bb8661674
+    m_Address: Assets/Art/Environment/EnvironmentPieces/Crystals/Crystal_E/Sprite_Crystal_E_Mask.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: d92965523be699e4996929cc3d5c7897, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 24b746e674cac574799c76475dc0cb3f, type: 2}

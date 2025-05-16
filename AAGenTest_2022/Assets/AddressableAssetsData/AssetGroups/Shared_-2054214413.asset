@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Shared_-2054214413
+  m_EditorClassIdentifier: 
+  m_GroupName: Shared_-2054214413
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 8f7c8d0edaf292846b12b25a0938ddab
+  m_SerializeEntries:
+  - m_GUID: 9029b3f97e1c542c29038f9f1a33006a
+    m_Address: Assets/Art/Environment/EnvironmentPieces/Rocks/Large/Rock_Large_E/Sprite_Rock_Large_E.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c16146342f270413fba06b55e2905b83
+    m_Address: Assets/Art/Environment/EnvironmentPieces/Rocks/Large/Rock_Large_E/Sprite_Rock_Large_E_Normal.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: d92965523be699e4996929cc3d5c7897, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: b6f04a1b737b5d64387cf898965f68bf, type: 2}

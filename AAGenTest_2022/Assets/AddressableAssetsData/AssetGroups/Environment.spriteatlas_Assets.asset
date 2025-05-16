@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Environment.spriteatlas_Assets
+  m_EditorClassIdentifier: 
+  m_GroupName: Environment.spriteatlas_Assets
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 36f05115dfc10a445a06bd54c0449ee9
+  m_SerializeEntries:
+  - m_GUID: 517017af02c8b44bfbac768633f78513
+    m_Address: Assets/Art/Environment/Blur/Stalactites/Sprite_Stalactites_Blur_C.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a309bead4043043d8ad08016969c7557
+    m_Address: Assets/Sprite Atlases/Environment.spriteatlas
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a9c32012a93ec41b3b4928ccfc6b0ac3
+    m_Address: Assets/Art/Environment/Blur/Stalagmites/Sprite_Stalagmites_Blur_A.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: d92965523be699e4996929cc3d5c7897, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: e2b6a661296ad594c9fa4b32bbbc0d54, type: 2}

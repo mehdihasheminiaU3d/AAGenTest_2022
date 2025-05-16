@@ -1,0 +1,184 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Shared_144237307
+  m_EditorClassIdentifier: 
+  m_GroupName: Shared_144237307
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 293fd3cc64e017546804e9e41c797d4d
+  m_SerializeEntries:
+  - m_GUID: 069f59f280bee4f3f8a8364d9e82372e
+    m_Address: Assets/Tilemaps/Walls/Tiles/Tile_Wall_24.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 09291263957d64740835262a84b61898
+    m_Address: Assets/Tilemaps/Walls/Tiles/Tile_Wall_22.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 22dfebec9b3d8404a9109c40b029d737
+    m_Address: Assets/Tilemaps/Walls/Tiles/Tile_Wall_0.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2bbbbf21ae383418a8936879564ecf24
+    m_Address: Assets/Tilemaps/Ground/Tiles/Tile_Ground_17.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2e3604afd4aff43e8b52927d445fc3b3
+    m_Address: Assets/Tilemaps/Walls/Tiles/Tile_Wall_11.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3084385ba4c8e467eb2324fb498789be
+    m_Address: Assets/Tilemaps/Walls/Tiles/Tile_Wall_10.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 30a106ded2a9042258c6cdf1aa14b439
+    m_Address: Assets/Tilemaps/Walls/Tiles/Tile_Wall_8.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 30f516ce8f9f44b65af2857bbccda94d
+    m_Address: Assets/Tilemaps/Walls/Tiles/Tile_Wall_7.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3a3b1ec088cda44abb39dd225ce5dc25
+    m_Address: Assets/Tilemaps/Ground/Tiles/Tile_Ground_8.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3f0c2b5095ebf4d12be7473fa168fb8b
+    m_Address: Assets/Tilemaps/Walls/Tiles/Tile_Wall_1.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 45ed39eddae2b4761bcabfb1e6557a0d
+    m_Address: Assets/Tilemaps/Walls/Sprites/Spritesheet_Tiles_Wall_Normal.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5dd1be126dbff482a8e267cd0f407225
+    m_Address: Assets/Tilemaps/Walls/Tiles/Tile_Wall_25.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 60cb435243ae74174b5efe61dc6a4b29
+    m_Address: Assets/Tilemaps/Walls/Tiles/Tile_Wall_23.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 65dcc54c034874907bb3252535766179
+    m_Address: Assets/Tilemaps/Walls/Tiles/Tile_Wall_14.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 70254ea53f7a74203a786d44cd2c72b8
+    m_Address: Assets/Tilemaps/Walls/Tiles/Tile_Wall_4.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 708ab55bda71e45e5977fd5bee37c6f1
+    m_Address: Assets/Tilemaps/Walls/Sprites/Spritesheet_Tiles_Wall.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7591ed3cbf5a046ebb8a588de7a1df29
+    m_Address: Assets/Tilemaps/Walls/Tiles/Tile_Wall_9.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 75f5403f40b31470384053bdf858619d
+    m_Address: Assets/Tilemaps/Walls/Tiles/Tile_Wall_3.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8b810cf90cac840e0830517c71ec5457
+    m_Address: Assets/Tilemaps/Walls/Tiles/Tile_Wall_16.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9398897f718754cdc8c6451bf207e55e
+    m_Address: Assets/Tilemaps/Walls/Tiles/Tile_Wall_13.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9dbc7f1961b6f4867ae23929855b33e3
+    m_Address: Assets/Tilemaps/Walls/Tiles/Tile_Wall_12.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a823bf670557f4987b28da55b81a1f77
+    m_Address: Assets/Tilemaps/Walls/Tiles/Tile_Wall_5.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b656da1aa4f3c44119d1505f9b90d33a
+    m_Address: Assets/Tilemaps/Walls/Tiles/Tile_Wall_21.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b91a6abe92bac42569b1aeb0fa3a525e
+    m_Address: Assets/Tilemaps/Walls/Tiles/Tile_Wall_26.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bf214c32ba55743cb94c2f748b12a39c
+    m_Address: Assets/Tilemaps/Walls/Tiles/Tile_Wall_19.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c0b48688e520448409f8f7397c1449de
+    m_Address: Assets/Tilemaps/Walls/Tiles/Tile_Wall_18.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cc8823c283e1a40e9874425c8e3f3429
+    m_Address: Assets/Tilemaps/Ground/Tiles/Tile_Ground_44.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d1a160bcee5d740918ebf514f4acc7d2
+    m_Address: Assets/Tilemaps/Ground/Tiles/Tile_Ground_35.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: de44d92b76d224d31a07548af6ad5da0
+    m_Address: Assets/Tilemaps/Walls/Tiles/Tile_Wall_2.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e88ec8476e9314e9d9088f1732c922a6
+    m_Address: Assets/Tilemaps/Ground/Tiles/Tile_Ground_26.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: efa2033c692a5499bac67170f77a86b8
+    m_Address: Assets/Tilemaps/Walls/Tiles/Tile_Wall_15.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: efe79fe0f077c4f00bea358af0de9540
+    m_Address: Assets/Tilemaps/Walls/Tiles/Tile_Wall_17.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: d92965523be699e4996929cc3d5c7897, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: fb34a7a2da2546f4596dee37ae051fe0, type: 2}
