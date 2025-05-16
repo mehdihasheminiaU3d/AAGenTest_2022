@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.AddressableAssets;
 using Utilities.Inspector;
 
 namespace DragonCrashers
@@ -31,13 +32,13 @@ namespace DragonCrashers
 
         [Header("Battle Ended - Victory")]
         public CutsceneTimelineBehaviour victoryCutsceneBehaviour;
-        public SceneField victoryNextScene;
+        public AssetReference victoryNextScene;
 
         [Header("Battle Ended - Defeat")]
         public CutsceneTimelineBehaviour defeatCutsceneBehaviour;
-        public SceneField defeatNextScene;
+        public AssetReference defeatNextScene;
 
-        private SceneField selectedNextScene;
+        private AssetReference selectedNextScene;
 
         [Header("Screen Fader")]
         public ScreenFaderManager screenFaderManager;

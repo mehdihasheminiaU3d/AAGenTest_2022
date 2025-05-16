@@ -1,11 +1,13 @@
 using UnityEngine;
+using UnityEngine.AddressableAssets;
 using Utilities.Inspector;
 using UnityEngine.SceneManagement;
 
 public class NextSceneLoader
 {
-    public void LoadNextScene(SceneField sceneToLoad)
+    public void LoadNextScene(AssetReference sceneToLoad)
     {
-        SceneManager.LoadScene(sceneToLoad);
+        Addressables.LoadSceneAsync(sceneToLoad);
+        // SceneManager.LoadScene(sceneToLoad);
     }
 }
