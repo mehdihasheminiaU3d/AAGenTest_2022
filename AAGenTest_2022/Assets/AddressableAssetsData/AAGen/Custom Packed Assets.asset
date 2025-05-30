@@ -34,9 +34,9 @@ MonoBehaviour:
   m_RedirectLimit: -1
   m_RetryCount: 0
   m_BuildPath:
-    m_Id: acf822678a68db14ab136433ab5093f9
+    m_Id: bcc5d440bccc079408851839f0feaac7
   m_LoadPath:
-    m_Id: f49217fda7089ce4cb292b92635d34d8
+    m_Id: a3e277b7902c8d647b64d8ff92964313
   m_BundleMode: 0
   m_AssetBundleProviderType:
     m_AssemblyName: Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
@@ -53,7 +53,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 1a3c5d64ac83548c09dd1678b9f6f1cd, type: 3}
-  m_Name: Packed Assets
+  m_Name: Custom Packed Assets
   m_EditorClassIdentifier: 
   m_SchemaObjects:
   - {fileID: -5449052250347767318}

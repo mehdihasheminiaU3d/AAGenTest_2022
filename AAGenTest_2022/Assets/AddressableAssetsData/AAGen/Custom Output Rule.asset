@@ -9,10 +9,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3ee1e544f99f42f3a8478bb551524bbd, type: 3}
-  m_Name: Default MergeRule SingleSources To SharedAssets
+  m_Script: {fileID: 11500000, guid: fb762d53903540f98fe7282f9274b231, type: 3}
+  m_Name: Custom Output Rule
   m_EditorClassIdentifier: 
-  _OriginCategory: 5
-  _DestinationCategory: 2
-  _OriginKeywords: []
-  _DestinationKeywords: []
+  m_Template: {fileID: 11400000, guid: 9d6c1a213283b4040a27498eb63f4746, type: 2}

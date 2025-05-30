@@ -9,10 +9,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a5fd6b81e52848c9af9f6062115a3fd9, type: 3}
-  m_Name: Default GroupLayoutRule for SharedAssets
+  m_Script: {fileID: 11500000, guid: 02a5950ebb17417a8afe172498a29a8b, type: 3}
+  m_Name: DefaultOutputRule
   m_EditorClassIdentifier: 
-  _CategoryId: 2
-  _MaxSize: 10
-  _AddressableAssetGroupTemplate: {fileID: 11400000, guid: 808b61139877d9d48a7a29f4c1e96178,
-    type: 2}
+  m_Template: {fileID: 0}
