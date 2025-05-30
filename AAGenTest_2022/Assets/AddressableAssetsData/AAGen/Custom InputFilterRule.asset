@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3fbdce283c342f7ac413b4ed29bc124, type: 3}
+  m_Name: Custom InputFilterRule
+  m_EditorClassIdentifier: 
+  m_Criteria:
+  - m_Description: Ignore all except files in Assets folder
+    m_PathMatchCondition: 1
+    m_PathKeyword: Assets/
+    m_InclusionAction: 0
+  - m_Description: Ignore assets in Editor folders
+    m_PathMatchCondition: 0
+    m_PathKeyword: /Editor/
+    m_InclusionAction: 0
+  - m_Description: Ignore Plugins
+    m_PathMatchCondition: 0
+    m_PathKeyword: Assets/Plugins
+    m_InclusionAction: 0
+  - m_Description: Ignore Addressable data files
+    m_PathMatchCondition: 0
+    m_PathKeyword: Assets/AddressableAssetsData
+    m_InclusionAction: 1
+  - m_Description: Ignore assets in StreamingAssets folder
+    m_PathMatchCondition: 0
+    m_PathKeyword: Assets/StreamingAssets
+    m_InclusionAction: 1
+  - m_Description: Ignore Resources
+    m_PathMatchCondition: 0
+    m_PathKeyword: /Resources/
+    m_InclusionAction: 1
