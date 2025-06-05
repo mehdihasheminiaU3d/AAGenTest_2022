@@ -15,7 +15,7 @@ MonoBehaviour:
   m_GroupName: -1571773743
   m_Data:
     m_SerializedData: []
-  m_GUID: 0119b6a53476309408d132196f766801
+  m_GUID: 130e3d8c22ef6a94e8bf7c4908f49a05
   m_SerializeEntries:
   - m_GUID: 203a4104b35922d4a962dc7a669576cd
     m_Address: Assets/Gameplay/_Data/Villains/Skeletons/Damak/UnitData_Skeleton_Ability_BasicAttack_A.asset
