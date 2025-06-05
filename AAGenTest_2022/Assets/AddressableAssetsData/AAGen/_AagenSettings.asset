@@ -12,14 +12,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 90167117d0064de3a047d40487c986e0, type: 3}
   m_Name: _AagenSettings
   m_EditorClassIdentifier: 
+  InputFilterRules:
+  - {fileID: 11400000, guid: 166600d011de03c4ca49d0afcc03f490, type: 2}
+  OutputRules:
+  - {fileID: 11400000, guid: a6e8ad2fad6a7a042b5da11da6c15522, type: 2}
+  m_RemoveUnnecessaryEntries: 1
+  m_RemoveEmptyGroups: 1
   m_ProcessingSteps: -1
   m_RunInBackground: 0
   m_CheckBuiltinSceneDuplicates: 0
   m_SaveGraphOnDisk: 0
-  InputFilterRules:
-  - {fileID: 11400000, guid: 166600d011de03c4ca49d0afcc03f490, type: 2}
-  OutputRules:
-  - {fileID: 11400000, guid: 655a1c8d4c7d07445b5e563788fc1577, type: 2}
   m_GenerateSummaryReport: 1
   m_LogLevel: 2
   _MergeRules: []

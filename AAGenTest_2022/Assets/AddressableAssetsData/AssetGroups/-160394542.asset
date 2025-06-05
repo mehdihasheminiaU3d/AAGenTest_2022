@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: -160394542
+  m_EditorClassIdentifier: 
+  m_GroupName: -160394542
+  m_Data:
+    m_SerializedData: []
+  m_GUID: ddd18ab2bec091e46b0bfdabc467cbc2
+  m_SerializeEntries:
+  - m_GUID: 4838a38c1d66c244aa0fa9d7c1f18d0b
+    m_Address: Assets/VFX/Lava/Sprites/Lava/FlowMap_Lava_B.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: eed5d07f8c2b0934681216bc30638d8d
+    m_Address: Assets/VFX/Lava/Materials/Mat_Lava_Spriteshape.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f167d866d19220341acc8394d7138ed5
+    m_Address: Assets/VFX/Lava/ShaderGraphs/ShaderGraph_Lava_SpriteShape.shadergraph
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: d92965523be699e4996929cc3d5c7897, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 00e18dc8c6bfb1b4795562a559db0369, type: 2}

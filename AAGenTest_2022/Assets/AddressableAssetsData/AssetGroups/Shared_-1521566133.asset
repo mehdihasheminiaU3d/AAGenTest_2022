@@ -15,7 +15,7 @@ MonoBehaviour:
   m_GroupName: Shared_-1521566133
   m_Data:
     m_SerializedData: []
-  m_GUID: 775b5e4cf4c48344f9d9f251401303ae
+  m_GUID: 2a8260929e0919b4a9c1b0e6645e08f4
   m_SerializeEntries:
   - m_GUID: 5fd9a8feb75a4b5894c241777f519d4e
     m_Address: Packages/com.unity.render-pipelines.universal/Shaders/Utils/MaterialError.shader
@@ -36,4 +36,4 @@ MonoBehaviour:
   m_Settings: {fileID: 11400000, guid: d92965523be699e4996929cc3d5c7897, type: 2}
   m_SchemaSet:
     m_Schemas:
-    - {fileID: 11400000, guid: 1195ba760ac4530439beaaf257304121, type: 2}
+    - {fileID: 11400000, guid: 9e893add87281c144b2296d0170a97bf, type: 2}

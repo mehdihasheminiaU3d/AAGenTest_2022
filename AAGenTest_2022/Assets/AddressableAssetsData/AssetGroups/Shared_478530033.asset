@@ -15,7 +15,7 @@ MonoBehaviour:
   m_GroupName: Shared_478530033
   m_Data:
     m_SerializedData: []
-  m_GUID: a79d7a64ea752b64a9aa764cff62b720
+  m_GUID: 3c13009c1c873d544ba7d0e5bd3e189c
   m_SerializeEntries:
   - m_GUID: 6dc6d1d7ff72bdf4ab894b42ce566cf5
     m_Address: Assets/VFX/CoinSplash/Mat_VFX_CoinSplash.mat
@@ -31,4 +31,4 @@ MonoBehaviour:
   m_Settings: {fileID: 11400000, guid: d92965523be699e4996929cc3d5c7897, type: 2}
   m_SchemaSet:
     m_Schemas:
-    - {fileID: 11400000, guid: e1787391185454f4c8439dbf0847ab42, type: 2}
+    - {fileID: 11400000, guid: 3a31be51132ec594698daf8c7443b807, type: 2}

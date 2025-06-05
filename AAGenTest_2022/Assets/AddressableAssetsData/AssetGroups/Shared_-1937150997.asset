@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Shared_-1937150997
+  m_EditorClassIdentifier: 
+  m_GroupName: Shared_-1937150997
+  m_Data:
+    m_SerializedData: []
+  m_GUID: f14a79b5791708341a80eac1b0512989
+  m_SerializeEntries:
+  - m_GUID: 1346c2537091247359ae662a92d46c2c
+    m_Address: Assets/VFX/Crystals/Mat_Sprite_Unlit_HDRTint.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1d96b7b67a45b0c45a0aeb783e956000
+    m_Address: Assets/Art/Environment/_Prefabs/Blur/Bucket/P_BucketOfCrystals_Blur.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 463d89f231a68e04fb287541df889f09
+    m_Address: Assets/Art/Environment/_Prefabs/Blur/Crystals/P_Crystals_Blur_C.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: d92965523be699e4996929cc3d5c7897, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: c63eddf9d027193468a65446430292af, type: 2}

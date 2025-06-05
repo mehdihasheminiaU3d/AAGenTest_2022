@@ -15,7 +15,7 @@ MonoBehaviour:
   m_GroupName: Shared_2133787215
   m_Data:
     m_SerializedData: []
-  m_GUID: b352e451150d8814b93e8750c7275fd2
+  m_GUID: 5129df0912b82c548b7370755546271e
   m_SerializeEntries:
   - m_GUID: a6ea62ddb13b49046a363dabe202db90
     m_Address: Assets/Art/UI/TextBackground/UI_TextBackground.png
@@ -36,4 +36,4 @@ MonoBehaviour:
   m_Settings: {fileID: 11400000, guid: d92965523be699e4996929cc3d5c7897, type: 2}
   m_SchemaSet:
     m_Schemas:
-    - {fileID: 11400000, guid: 022de965456bab841b9fa8a26284349a, type: 2}
+    - {fileID: 11400000, guid: 68b13c58e47700e419fd3cdced1f5ef0, type: 2}

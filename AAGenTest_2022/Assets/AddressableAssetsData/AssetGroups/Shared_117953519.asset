@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Shared_117953519
+  m_EditorClassIdentifier: 
+  m_GroupName: Shared_117953519
+  m_Data:
+    m_SerializedData: []
+  m_GUID: c21da564428748049b78ddbaf0f4eaea
+  m_SerializeEntries:
+  - m_GUID: cec10d286bf33ee4d8e31bc21a744a0d
+    m_Address: Assets/VFX/Rays/Sprite_Rays.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: d92965523be699e4996929cc3d5c7897, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: de45e3272b2787d45b637b0aceeb1b1f, type: 2}

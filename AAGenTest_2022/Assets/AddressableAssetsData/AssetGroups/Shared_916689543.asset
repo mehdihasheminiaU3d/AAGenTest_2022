@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Shared_916689543
+  m_EditorClassIdentifier: 
+  m_GroupName: Shared_916689543
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 5b19c6526a8e2e94ca2aeb29d1ee5c85
+  m_SerializeEntries:
+  - m_GUID: 0720f4cb9f897264f8fd7db7580ac43f
+    m_Address: Assets/Animations/Characters/AnimClips/Empty/AnimClip_Die.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0f67f04e7aa7432468816a8f7bce8b71
+    m_Address: Assets/Art/Characters/Knight/SpriteLibrary_Character_Knight.spriteLib
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1a52c39416d7a3d4dbc0e5eb57c0dc7e
+    m_Address: Assets/Animations/Characters/AnimClips/Shared_Bipeds/Anim_Character_Bipedal_Die.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2042f50942a6baf4b8db6dd9db16060d
+    m_Address: Assets/Animations/Characters/_AnimControllers/Gameplay/AnimOverride_Unit_Wolfman.overrideController
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5f5959e33406b5246b721ba3e280bbc1
+    m_Address: Assets/Art/Characters/_Prefabs/PV_Character_Knight.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 601caeefd26acb34592f1a07ee796ffc
+    m_Address: Assets/Art/Characters/_Prefabs/PV_Character_Witch.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 666d57cd5e3898b47a7d3a9f70b15230
+    m_Address: Assets/Animations/Characters/_AnimControllers/Gameplay/AnimOverride_Unit_Witch.overrideController
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9add209818a98a448b14443ee2bd81e4
+    m_Address: Assets/Animations/Characters/_AnimControllers/Gameplay/AnimOverride_Unit_Knight.overrideController
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a64c49f6226bfb64f945292d67d705e1
+    m_Address: Assets/Art/Characters/Witch/SpriteLibrary_Character_Witch.spriteLib
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c71952e188404dc42b07e09284da7103
+    m_Address: Assets/Animations/Characters/AnimClips/Empty/AnimClip_GetHit.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c9fb24bebd1cdaa44b0285a0faa662fa
+    m_Address: Assets/Art/Characters/Wolfman/SpriteLibrary_Character_Wolfman.spriteLib
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cd52117218b74c64ba11bdefc50ca968
+    m_Address: Assets/Art/Characters/_Prefabs/PV_Character_Wolfman.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ebb9932ae42d48842a2182d5cb2b7038
+    m_Address: Assets/Animations/Characters/AnimClips/Empty/AnimClip_Idle.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f2a3b0505b6a84245b9b662d47ec4f43
+    m_Address: Assets/Animations/Characters/_AnimControllers/Gameplay/AnimController_Unit.controller
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f33a7a5730fde7944a643117e4aeb906
+    m_Address: Assets/Animations/Characters/AnimClips/Shared_Bipeds/Anim_Character_Bipedal_GetHit.anim
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: d92965523be699e4996929cc3d5c7897, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 7de57fb9ac745334ea12e1c991322026, type: 2}

@@ -15,7 +15,7 @@ MonoBehaviour:
   m_GroupName: Shared_310682479
   m_Data:
     m_SerializedData: []
-  m_GUID: 3ed8e3ffd8ea4774983421709a52e281
+  m_GUID: bd8fc1ec98ef8754ca3cc789c0708670
   m_SerializeEntries:
   - m_GUID: 4b7a685d79b6b4b798ea4827f50d4afa
     m_Address: Assets/Art/Environment/EnvironmentPieces/Crystals/Crystal_C/Sprite_Crystal_C.png
@@ -31,4 +31,4 @@ MonoBehaviour:
   m_Settings: {fileID: 11400000, guid: d92965523be699e4996929cc3d5c7897, type: 2}
   m_SchemaSet:
     m_Schemas:
-    - {fileID: 11400000, guid: 087f5ce75646dc7479f26c29ac8249dc, type: 2}
+    - {fileID: 11400000, guid: 41636c3b3a6310c43b253900c02161f4, type: 2}

@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Shared_556066401
+  m_EditorClassIdentifier: 
+  m_GroupName: Shared_556066401
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 10f3966a99b619748831d769759038ed
+  m_SerializeEntries:
+  - m_GUID: 01d6a09be125e460599d6a53ed200597
+    m_Address: Assets/Art/UI/Avatars/Sprite_Avatar_Wolfman.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 37d638a1a60c84e8c88aec78c7fd88bf
+    m_Address: Assets/Art/UI/Avatars/Sprite_Avatar_Knight.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: d92965523be699e4996929cc3d5c7897, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: aa6efc8c0ca46a04190decb26b5febe9, type: 2}

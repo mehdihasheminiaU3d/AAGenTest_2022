@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Shared_1217816262
+  m_EditorClassIdentifier: 
+  m_GroupName: Shared_1217816262
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 25bf2a2fd73a76d4d887e7cee046554d
+  m_SerializeEntries:
+  - m_GUID: 67cc11ffdbbee4d47b6f2bc473c184f6
+    m_Address: Assets/Art/Environment/EnvironmentPieces/Crystals/Crystal_G/Sprite_Crystal_G.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7ab990a74a0cb4ccca85559e9eb33555
+    m_Address: Assets/Art/Environment/EnvironmentPieces/Crystals/Crystal_G/Sprite_Crystal_G_Mask.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: d92965523be699e4996929cc3d5c7897, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 358d367a27bee9542b6be18b6fb8c11d, type: 2}

@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Shared_-923224976
+  m_EditorClassIdentifier: 
+  m_GroupName: Shared_-923224976
+  m_Data:
+    m_SerializedData: []
+  m_GUID: c538935579a8a2c4c85f4d0e7ac3de4e
+  m_SerializeEntries:
+  - m_GUID: 27c91834d31ec8e4d991dda34fdf2afc
+    m_Address: Assets/Art/Environment/EnvironmentPieces/WarningSign/Sprite_WarningSign_Mask.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3181da6e2ef0c4d23a5339adcec6b40a
+    m_Address: Assets/Art/Environment/EnvironmentPieces/WarningSign/Sprite_WarningSign@2x.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 83b27d550cb3540b2a6e1af8b73c3656
+    m_Address: Assets/Art/Environment/EnvironmentPieces/Shovel/Sprite_Shovel.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 85cc730be8f92474b9280063a4dd8dc5
+    m_Address: Assets/Art/Environment/EnvironmentPieces/WarningSign/Sprite_WarningSign_Normal@2x.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: afdc189b5c8e54795a12154779e83e66
+    m_Address: Assets/Art/Environment/EnvironmentPieces/Shovel/Sprite_Shovel_Normal.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b7afb62563f13664189b949683442e2a
+    m_Address: Assets/Art/Environment/EnvironmentPieces/Shovel/Sprite_Shovel_Mask.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: d92965523be699e4996929cc3d5c7897, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 602f18378d3636e44958abb9bb5fda3e, type: 2}

@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Shared_-1026393347
+  m_EditorClassIdentifier: 
+  m_GroupName: Shared_-1026393347
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 8dde2754cbb6e7b43aa10a1447bced32
+  m_SerializeEntries:
+  - m_GUID: 231d3378483b142528a7f80ea09844bf
+    m_Address: Assets/Art/Weapons/Sword/Sprite_Weapon_Sword.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 287dbaf4e83c44473ade00bdb4a88a60
+    m_Address: Assets/Art/Weapons/Shield/Sprite_Weapon_Shield_Normal.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4461e8e33d17c40b2a5cd4e6f783ae53
+    m_Address: Assets/Art/Weapons/Shield/Sprite_Weapon_Shield.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 69583aa2aa56d4313b77342adac492d7
+    m_Address: Assets/Art/Weapons/Shield/Sprite_Weapon_Shield_Mask.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e0081cc4099f74cd28cf5eb2a9000d54
+    m_Address: Assets/Art/Weapons/Sword/Sprite_Weapon_Sword_Mask.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: d92965523be699e4996929cc3d5c7897, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: feac9193035461a408822a4e441677c5, type: 2}

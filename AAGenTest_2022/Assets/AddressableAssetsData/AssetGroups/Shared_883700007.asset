@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Shared_883700007
+  m_EditorClassIdentifier: 
+  m_GroupName: Shared_883700007
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 8721e263236261a429711e843138cb44
+  m_SerializeEntries:
+  - m_GUID: 870e4435e7c30eb478a901f6ad9dc479
+    m_Address: Assets/Art/Weapons/_Prefabs/P_Weapon_Shield.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bf4a2de267eea452fbaaebf6d197d4aa
+    m_Address: Assets/Art/Weapons/_Prefabs/P_Weapon_Staff.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f5b6e719e0bdf8149af9fe991d6dd094
+    m_Address: Assets/Art/Weapons/_Prefabs/P_Weapon_Sword.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: d92965523be699e4996929cc3d5c7897, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: eb5787fe9d729bf43bc5e6ceec60e0cb, type: 2}

@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Shared_-393729470
+  m_EditorClassIdentifier: 
+  m_GroupName: Shared_-393729470
+  m_Data:
+    m_SerializedData: []
+  m_GUID: e8a7bad7a72cee34986b1f0db546c44b
+  m_SerializeEntries:
+  - m_GUID: 3c7fe59db0ba844cfb91704827f47e38
+    m_Address: Assets/Art/Environment/EnvironmentPieces/Crate/Sprite_Crate.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8ad20f67dff9944f98459e8b72b38f53
+    m_Address: Assets/Art/Environment/EnvironmentPieces/Crate/Sprite_Crate_Normal.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: db21186723165c54fbcc82f6939c6071
+    m_Address: Assets/Art/Environment/EnvironmentPieces/Crate/Sprite_Crate_Mask.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: d92965523be699e4996929cc3d5c7897, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 402b1d2aea708f147a38757d83300b3c, type: 2}

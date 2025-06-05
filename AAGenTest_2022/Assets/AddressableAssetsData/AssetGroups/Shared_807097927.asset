@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Shared_807097927
+  m_EditorClassIdentifier: 
+  m_GroupName: Shared_807097927
+  m_Data:
+    m_SerializedData: []
+  m_GUID: a4eaa0945ca09354884ae75c95fbf547
+  m_SerializeEntries:
+  - m_GUID: f9c2915636332344e81b1379bcc1913c
+    m_Address: Assets/VFX/StepDust/P_VFX_Step_Dust.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: d92965523be699e4996929cc3d5c7897, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: b86b185c27fbeff40a66b20871c88ab2, type: 2}

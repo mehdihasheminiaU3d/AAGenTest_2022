@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Shared_-294309830
+  m_EditorClassIdentifier: 
+  m_GroupName: Shared_-294309830
+  m_Data:
+    m_SerializedData: []
+  m_GUID: d7b346926fabea742bc6095bf461cda2
+  m_SerializeEntries:
+  - m_GUID: 8f519a0f7487d41cebc10ff177ee1436
+    m_Address: Assets/Art/Characters/Knight/PSB_Character_Knight.psb
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a085c85d3d14b4c999f6aac2df0c26f3
+    m_Address: Assets/Art/Characters/Knight/PSB_Character_Knight_Normal.psb
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e31b7c14dd3aa4360bf4feaf655a261a
+    m_Address: Assets/Art/Characters/Knight/PSB_Character_Knight_Mask.psb
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: d92965523be699e4996929cc3d5c7897, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: a20843bf46de23748952fc2a3a15d618, type: 2}

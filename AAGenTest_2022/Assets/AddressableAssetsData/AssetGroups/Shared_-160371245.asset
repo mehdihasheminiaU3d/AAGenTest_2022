@@ -1,0 +1,174 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Shared_-160371245
+  m_EditorClassIdentifier: 
+  m_GroupName: Shared_-160371245
+  m_Data:
+    m_SerializedData: []
+  m_GUID: c3982e98eca348442b7cf68c236ededb
+  m_SerializeEntries:
+  - m_GUID: 02e64ca8a8044eb45af3ff3113d5a745
+    m_Address: Assets/Timeline/Units/Dragon/Timeline_Dragon_Attack_Special.playable
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 11896b98227ec0140adf4eff421551da
+    m_Address: Assets/Audio/SFX/Units/Dragon/GetHit/AudioClip_Dragon_Hit_A.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1f4a1d06b82d5294bbbc120605e97ca7
+    m_Address: Assets/VFX/CameraSortingLayerTexture/ShaderGraph_Smoke.shadergraph
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1ffdb984dc29e464ea492168003a959c
+    m_Address: Assets/VFX/CameraSortingLayerTexture/Mat_Smoke_New.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 26d7b3ebfef832742ba67abf6a62e7d0
+    m_Address: Assets/VFX/CameraSortingLayerTexture/Refraction/ShaderGraph_CameraSortingLayerTexture_Refraction.shadergraph
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 311925a002f4447b3a28927169b83ea6
+    m_Address: 311925a002f4447b3a28927169b83ea6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 35a2d0d919d44b341867260b31a2ee19
+    m_Address: Assets/VFX/CameraSortingLayerTexture/Refraction/Mat_CameraSortingLayerTexture_Refraction.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 40938fca1adc20b4086c33dc7d30a2b5
+    m_Address: Assets/Audio/SFX/Units/Dragon/Death/AudioClip_Dragon_Death_A.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5144c36c1530bd54993891f62652c0d5
+    m_Address: Assets/Timeline/Units/Dragon/Timeline_Dragon_Attack_Basic.playable
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5475aa7b4e8b0e54d9566561a6705b54
+    m_Address: Assets/Audio/SFX/Units/Dragon/GetHit/AudioClip_Dragon_Hit_B.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5652eebee9beb433ab4a9399df4951be
+    m_Address: Assets/Audio/SFX/Units/General/AudioClip_General_ChainsShaking.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5d864280d5bda8a4cb7d7283519e8d1c
+    m_Address: Assets/Gameplay/_Data/Villains/Dragon/UnitData_Dragon_Info_Rustum.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 647907a6911190b47b6deb6d5b8b5ee3
+    m_Address: Assets/Gameplay/_Prefabs/UI/Unit Displays/UI_Unit_Display_Boss.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 69ce8388f6785dd4c8c39915efece2f4
+    m_Address: Packages/com.unity.cinemachine/Presets/Noise/6D Shake.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6cc7a24444ee4d048a463ced3686fd0c
+    m_Address: Assets/Gameplay/_Data/Villains/Dragon/UnitData_Dragon_SFX.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 79245ba622d29954892a557cc7d57eeb
+    m_Address: Assets/Gameplay/_Data/Villains/Dragon/UnitData_Dragon_Ability_SpecialAttack.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7d327b30042bf4ee8b105cda513b25c7
+    m_Address: Assets/Audio/SFX/Units/Dragon/Abilities/AudioClip_Dragon_Roar.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 87c092306de363343b33f1eeb7fba86f
+    m_Address: Assets/Audio/SFX/Units/Dragon/Abilities/AudioClip_Dragon_Bite.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9dff6e7527b299548a02f0ff4e76e0c9
+    m_Address: Assets/VFX/CameraSortingLayerTexture/Simple/ShaderGraph_CameraSortingLayerTexture.shadergraph
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a5aac91089865b24b83c92f5f948d0b3
+    m_Address: Assets/VFX/CameraSortingLayerTexture/Simple/Mat_CameraSortingLayerTexture.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a633a726c7e5de646b8a4ef73f4285ec
+    m_Address: Assets/VFX/CameraSortingLayerTexture/Posterize/Mat_CameraSortingLayerTexture_Posterize.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b2358cdf20faa469fb6119f24c656471
+    m_Address: Assets/Timeline/Cutscenes/Timeline_Cutscene_Intro_Dragon.playable
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bcd6ed91981f03940aac8e58062b5fe2
+    m_Address: Assets/Audio/SFX/Units/Dragon/Death/AudioClip_Dragon_Death_B.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ca79d85ffdb40e94d8157f5149c6688f
+    m_Address: Assets/Audio/SFX/Units/Dragon/Death/AudioClip_Dragon_Death_C.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d1c3109bdb54ad54c8a2b2838528e640
+    m_Address: Assets/Scenes/Gameplay/Scene_Battle_Dragon.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dbcea9f2f1b10db4585356ad42873318
+    m_Address: Assets/VFX/CameraSortingLayerTexture/Posterize/ShaderGraph_CameraSortingLayerTexture_Posterize.shadergraph
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: debf2b80b6c7c8044a5dbb0807cc8897
+    m_Address: Assets/Gameplay/_Prefabs/Units/Unit_Dragon_Rustum.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f1bbdbf6878964400bbf322071c586b9
+    m_Address: Assets/Audio/SFX/Units/Dragon/Abilities/AudioClip_Dragon_Grumble.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f97ca97a196db444aab0439f18658230
+    m_Address: Assets/Audio/SFX/Units/Dragon/GetHit/AudioClip_Dragon_Hit_C.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fc191cb3e149e3e469828a6598a7530d
+    m_Address: Assets/Gameplay/_Data/Villains/Dragon/UnitData_Dragon_Ability_BasicAttack.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: d92965523be699e4996929cc3d5c7897, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 821e32ce91c5caa48a7152ce6f4bd92a, type: 2}

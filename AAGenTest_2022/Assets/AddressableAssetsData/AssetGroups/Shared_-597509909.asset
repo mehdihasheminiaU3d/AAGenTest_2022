@@ -15,7 +15,7 @@ MonoBehaviour:
   m_GroupName: Shared_-597509909
   m_Data:
     m_SerializedData: []
-  m_GUID: d0ce856e163c3344fb83f9304a273195
+  m_GUID: 88418fb93cc4fc14088d543388a7f780
   m_SerializeEntries:
   - m_GUID: 15d0c3709176029428a0da2f8cecf0b5
     m_Address: Packages/com.unity.render-pipelines.universal/Runtime/Materials/SpriteMask-Default.mat
@@ -81,4 +81,4 @@ MonoBehaviour:
   m_Settings: {fileID: 11400000, guid: d92965523be699e4996929cc3d5c7897, type: 2}
   m_SchemaSet:
     m_Schemas:
-    - {fileID: 11400000, guid: ee0012339b85f9544b8a6a97df939514, type: 2}
+    - {fileID: 11400000, guid: 2c1c38bf00d60a1428f0dc1e1d4b69a8, type: 2}

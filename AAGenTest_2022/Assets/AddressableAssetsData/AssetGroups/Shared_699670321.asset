@@ -15,7 +15,7 @@ MonoBehaviour:
   m_GroupName: Shared_699670321
   m_Data:
     m_SerializedData: []
-  m_GUID: 7d8d3e6ed7ff76a4d9df080cf6ecae85
+  m_GUID: 132fc003cac8d22478bbe200ec59fe28
   m_SerializeEntries:
   - m_GUID: 04c410c9937594faa893a11dceb85f7e
     m_Address: Packages/com.unity.render-pipelines.universal/Shaders/Utils/Sampling.shader
@@ -24,11 +24,6 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 071e954febf155243a6c81e48f452644
     m_Address: Packages/com.unity.render-pipelines.universal/Textures/BlueNoise16/L/LDR_LLL1_9.png
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 0a9eb8cdeae5e3241b8e49c077e7f863
-    m_Address: Assets/RenderPipeline/RenderPipelineAsset_Universal_Desktop.asset
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
@@ -149,11 +144,6 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 65df88701913c224d95fc554db28381a
     m_Address: Packages/com.unity.render-pipelines.universal/Shaders/PostProcessing/LutBuilderLdr.shader
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 6cad42d5cecac614fa8d463030626ac9
-    m_Address: Assets/RenderPipeline/RenderPipelineAsset_Universal_Mobile.asset
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
@@ -346,4 +336,4 @@ MonoBehaviour:
   m_Settings: {fileID: 11400000, guid: d92965523be699e4996929cc3d5c7897, type: 2}
   m_SchemaSet:
     m_Schemas:
-    - {fileID: 11400000, guid: 0040a326d8a2ee643a36799d31e85eda, type: 2}
+    - {fileID: 11400000, guid: fca4751a0b239c641adb537d2fc7d0d7, type: 2}

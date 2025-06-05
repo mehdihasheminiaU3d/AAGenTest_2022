@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Shared_-512334799
+  m_EditorClassIdentifier: 
+  m_GroupName: Shared_-512334799
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 8c6218dc541a0764080e2c2bbf4f060a
+  m_SerializeEntries:
+  - m_GUID: 8efc50c42b7654d85baec5fb7562f05c
+    m_Address: Assets/Art/Environment/EnvironmentPieces/MineCartTrack/MineCartTrack_A/Sprite_MineCartTrack_A_Normal.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d338313822f564067aa6a1801a0fc7b2
+    m_Address: Assets/Art/Environment/EnvironmentPieces/MineCartTrack/MineCartTrack_A/Sprite_MineCartTrack_A.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f2425df380f204f19b64993f583d1965
+    m_Address: Assets/Art/Environment/EnvironmentPieces/MineCartTrack/MineCartTrack_A/Sprite_MineCartTrack_A_Mask.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: d92965523be699e4996929cc3d5c7897, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 2dd5c9049955ff9408e63c45dbf7233e, type: 2}

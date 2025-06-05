@@ -15,7 +15,7 @@ MonoBehaviour:
   m_GroupName: Shared_-405921263
   m_Data:
     m_SerializedData: []
-  m_GUID: 7fdb8ae6130bb7344bf402caeaab2ed1
+  m_GUID: 976d5af582a0188439eb2993235942b2
   m_SerializeEntries:
   - m_GUID: 00ca301618b86a243b85d3144a99a9b9
     m_Address: Assets/VFX/Logo/Mat_Logo_VFX_Spark.mat
@@ -61,4 +61,4 @@ MonoBehaviour:
   m_Settings: {fileID: 11400000, guid: d92965523be699e4996929cc3d5c7897, type: 2}
   m_SchemaSet:
     m_Schemas:
-    - {fileID: 11400000, guid: 0b1db136ff4eb624cb06656cedd60eff, type: 2}
+    - {fileID: 11400000, guid: c83bc86e99bd4c44c80bf3d468362658, type: 2}

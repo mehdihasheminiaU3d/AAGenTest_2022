@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Shared_1388138589
+  m_EditorClassIdentifier: 
+  m_GroupName: Shared_1388138589
+  m_Data:
+    m_SerializedData: []
+  m_GUID: c13a185871061784d9066c64d3edc250
+  m_SerializeEntries:
+  - m_GUID: 2c3e67285d1b09c4ba7d0f00330b7bf9
+    m_Address: Assets/Art/Environment/_Prefabs/EnvironmentPieces/Crystals/P_Crystal_J.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 64cd5fc4c3a14154a86eb0d638989502
+    m_Address: Assets/Art/Characters/_Prefabs/PV_Character_Skeleton_A.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ea77d3851418c46d6bfefbf4a59cb025
+    m_Address: Assets/Art/Weapons/_Prefabs/P_Weapon_Cutlass.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: d92965523be699e4996929cc3d5c7897, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 53f111f623031314f827dbef5ec42d6d, type: 2}

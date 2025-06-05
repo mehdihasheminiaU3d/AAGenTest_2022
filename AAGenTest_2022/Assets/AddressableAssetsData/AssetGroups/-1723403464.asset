@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: -1723403464
+  m_EditorClassIdentifier: 
+  m_GroupName: -1723403464
+  m_Data:
+    m_SerializedData: []
+  m_GUID: d0507443a5a177046bbb810e9a72b68d
+  m_SerializeEntries:
+  - m_GUID: 2ffd9dbc64f331045adaf77ec4f58568
+    m_Address: Assets/Art/Environment/SpriteLibraries/SpriteLibrary_Rocks.spriteLib
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: d92965523be699e4996929cc3d5c7897, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: a43ce28c2975e8d4fbeb03ca676ae5e3, type: 2}

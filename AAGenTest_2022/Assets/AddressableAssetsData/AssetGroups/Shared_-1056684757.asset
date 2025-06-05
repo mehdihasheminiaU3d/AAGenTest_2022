@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Shared_-1056684757
+  m_EditorClassIdentifier: 
+  m_GroupName: Shared_-1056684757
+  m_Data:
+    m_SerializedData: []
+  m_GUID: a86a13f121f94634884843761f366711
+  m_SerializeEntries:
+  - m_GUID: 5ec3f3d115cba504d95c01249ffb694c
+    m_Address: Assets/Art/Environment/_Prefabs/EnvironmentSets/P_Environment_Entrance.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: d92965523be699e4996929cc3d5c7897, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: c6fcd2612bd8d0240b5953ba8edf1a14, type: 2}

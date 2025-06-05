@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Shared_2092065559
+  m_EditorClassIdentifier: 
+  m_GroupName: Shared_2092065559
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 80c33fc5cba46ed4f82c9fed17efc7f3
+  m_SerializeEntries:
+  - m_GUID: 22797f1e365a144be80e05b34f364e94
+    m_Address: Assets/Art/Environment/EnvironmentPieces/Rocks/Medium/Rock_Medium_A/Sprite_Rock_Medium_A_Normal.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 886cedf05486124438007dd2acf7e83c
+    m_Address: Assets/Art/Environment/EnvironmentPieces/Rocks/RockPile/Sprite_RockPile_Mask.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a1bc6542d5e2540b193f11854ceab7c4
+    m_Address: Assets/Art/Environment/EnvironmentPieces/Rocks/Medium/Rock_Medium_A/Sprite_Rock_Medium_A.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a335b86b476d54bf3b607d346b820851
+    m_Address: Assets/Art/Environment/EnvironmentPieces/Rocks/Medium/Rock_Medium_A/Sprite_Rock_Medium_A_Mask.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c585f7c04233f4818b550ad0bd0bdf1c
+    m_Address: Assets/Art/Environment/EnvironmentPieces/Rocks/RockPile/Sprite_RockPile_Normal@2x.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ef95d7c2ae812492faaee38b61722283
+    m_Address: Assets/Art/Environment/EnvironmentPieces/Rocks/RockPile/Sprite_RockPile@2x.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: d92965523be699e4996929cc3d5c7897, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 0841e437b5160d44db82c2e483bb3dd9, type: 2}

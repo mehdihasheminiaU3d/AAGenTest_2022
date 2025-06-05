@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Shared_-833612510
+  m_EditorClassIdentifier: 
+  m_GroupName: Shared_-833612510
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 276824d0ba72a794fbacee86f2087f35
+  m_SerializeEntries:
+  - m_GUID: 6c9180c6205d3474a99ee46bb3ac312c
+    m_Address: Assets/Art/Environment/EnvironmentPieces/Coin/Sprite_Coin_Mask.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8e589593bb3744dac99d13808c6a1bcc
+    m_Address: Assets/Art/Environment/EnvironmentPieces/Coin/Sprite_Coin_Normal.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d20abf6b9a2984239b2618a6da8d3506
+    m_Address: Assets/Art/Environment/EnvironmentPieces/Coin/Sprite_Coin.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: d92965523be699e4996929cc3d5c7897, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 3dbdfd21113e9fa48ad0985cbbf234e6, type: 2}

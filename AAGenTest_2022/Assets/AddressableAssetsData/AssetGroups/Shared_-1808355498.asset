@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Shared_-1808355498
+  m_EditorClassIdentifier: 
+  m_GroupName: Shared_-1808355498
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 88331742cbdcb444abb44f0beb9d6dd2
+  m_SerializeEntries:
+  - m_GUID: 28796c3fc259d4ecd8311359c54f667b
+    m_Address: Assets/Art/Characters/Wolfman/PSB_Character_Wolfman_Mask.psb
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 74a8c8344e97b455096a01aa6f7d90fd
+    m_Address: Assets/Art/Characters/Wolfman/PSB_Character_Wolfman.psb
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7b102cf16c50e4ce8b9fe63869e3b1ef
+    m_Address: Assets/Art/Characters/Wolfman/PSB_Character_Wolfman_Normal.psb
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: d92965523be699e4996929cc3d5c7897, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 394d7aab6e0c10842a2835573decde01, type: 2}
